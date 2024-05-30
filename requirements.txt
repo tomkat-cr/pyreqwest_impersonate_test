@@ -1,0 +1,4 @@
+click==8.1.7
+duckduckgo_search==6.1.2
+orjson==3.10.3
+pyreqwest_impersonate==0.4.6
